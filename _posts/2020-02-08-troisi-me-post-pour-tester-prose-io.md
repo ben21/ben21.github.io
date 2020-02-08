@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Troisième post, pour tester prose.io'
 ---
 ## Exemple de poste
