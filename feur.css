@@ -1,0 +1,42 @@
+
+.html{
+    color: black;
+}
+.navbar {
+    background-color: white;
+  
+  }
+  
+  
+  .hero {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBCafTQy6VVYQRL-Qj-k9ce297JXx3UZqhepIO3MpoA&s");
+
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    background-position: center;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .hero {
+     background-image: url("https://media.istockphoto.com/photos/royal-jubilee-cupcakes-for-platinum-jubilee-celebrations-picture-id1385420675?s=612x612")  
+
+    }
+    
+  }
+    
+  
+  
+  .card {
+    border: none;
+  background-color:rgba(0,0,0,0);
+  
+  }
+  .card-img-top{
+    height: 10px;
+    border-radius: 80px;
+  }
+  
